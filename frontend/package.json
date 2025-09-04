@@ -17,6 +17,7 @@
     "emailjs-com": "^3.2.0",
     "express": "^5.1.0",
     "firebase": "^12.1.0",
+    "framer-motion": "^12.23.12",
     "lottie-react": "^2.4.1",
     "mongoose": "^8.18.0",
     "nodemailer": "^7.0.6",

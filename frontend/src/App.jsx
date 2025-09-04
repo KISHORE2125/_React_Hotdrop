@@ -5,7 +5,7 @@ import HomePage from "./Pages/Home_Page";
 
 import SignIn from "./Pages/Sign_In_Page";
 import SignUp from "./Pages/Sign_Up_Page";
-// import Contact from "./Pages/Contact_Page";
+import Contact from "./Pages/Contact_Page";
 // import LoadingAnimation from "./Components/Loading_Animation_Section";
 
 function App() {
