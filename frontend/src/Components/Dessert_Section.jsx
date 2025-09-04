@@ -2,19 +2,36 @@
 // import { useNavigate } from "react-router-dom";
 // import { FaChevronRight, FaChevronLeft, FaStar, FaShoppingCart, FaPlus, FaMinus } from "react-icons/fa";
 
-// // Import dessert images
-// import ChocolateCake from "../assets/Desserts/ChocolateCake.jpg";
-// import IceCream from "../assets/Desserts/IceCream.jpg";
-// import Cupcake from "../assets/Desserts/Cupcake.jpg";
-// import Brownie from "../assets/Desserts/Brownie.jpg";
-// import Pudding from "../assets/Desserts/Pudding.jpg";
+// Import dessert images
+// import Brownie_Dessert from '../assets/Dessert/Brownie_Dessert.jpg';
+// import Cherry_Dessert from '../assets/Dessert/Cherry_Dessert.jpg';
+// import Cup_Cake_Dessert from '../assets/Dessert/Cup_Cake_Dessert.jpg';
+// import Cup_Cake from '../assets/Dessert/Cup_Cake.jpg';
+// import Dark_Chocolate_Dessert from '../assets/Dessert/Dark_Chocolate_Dessert.jpg';
+// import Ice_Brownie_Dessert from "../assets/Dessert/Ice_Brownie_Dessert.jpg"
+// import Ice_Cream_Biscuit from "../assets/Dessert/Ice_Cream_Biscuit.jpg"
+// import Piece_Dessert from '../assets/Dessert/Piece_Dessert.jpg' 
+// import Rasperry_Dessert from '../assets/Dessert/Rasperry_Dessert.jpg' 
+
+
+
+
+
+
+
 
 // const dessertsData = [
-//   { src: ChocolateCake, title: "Chocolate Cake", price: 250, rating: 4.9 },
-//   { src: IceCream, title: "Ice Cream", price: 150, rating: 4.7 },
-//   { src: Cupcake, title: "Cupcake", price: 100, rating: 4.5 },
-//   { src: Brownie, title: "Brownie", price: 120, rating: 4.8 },
-//   { src: Pudding, title: "Pudding", price: 80, rating: 4.6 },
+//   { src: Brownie_Dessert, title: "Brownie_Dessert", price: 250, rating: 4.9 },
+//   { src: Cherry_Dessert, title: "Cherry_Dessert", price: 150, rating: 4.7 },
+//   { src: Cup_Cake_Dessert, title: "Cup_Cake_dessert", price: 100, rating: 4.5 },
+//   { src: Cup_Cake, title: "Cup_Cake", price: 120, rating: 4.8 },
+//   { src: Dark_Chocolate_Desert, title: "Dark_Chocolate_Dessert", price: 80, rating: 4.6 },
+//   { src: Ice_Brownie_Dessert, title: "Ice_Brownie_Dessert", price: 80, rating: 4.6 },
+//   { src: Ice_Cream_Biscuit, title: "Ice_Cream_Biscuit", price: 80, rating: 4.6 },
+//   { src: Piece_Dessert, title: "Piece_Dessert", price: 80, rating: 4.6 },
+//   { src: Rasperry_Dessert, title: "Rasperry_Dessert", price: 80, rating: 4.6 },
+
+
 // ];
 
 // export default function DessertSection() {

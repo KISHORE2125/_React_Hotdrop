@@ -1,19 +1,29 @@
 // import React, { useState } from "react";
 // import { FaChevronRight, FaChevronLeft, FaStar, FaShoppingCart, FaPlus, FaMinus } from "react-icons/fa";
 
-// // Import non-veg images
-// import ButterChicken from "../assets/NonVeg/ButterChicken.jpg";
-// import ChickenBiryani from "../assets/NonVeg/ChickenBiryani.jpg";
-// import MuttonRoganJosh from "../assets/NonVeg/MuttonRoganJosh.jpg";
-// import FishCurry from "../assets/NonVeg/FishCurry.jpg";
-// import TandooriChicken from "../assets/NonVeg/TandooriChicken.jpg";
+// Import non-veg images
+// import Grill_Chicken from '../assets/Non_Veg/Grill_Chicken.jpg';
+// import Chicken_Briyani from '../assets/Non_Veg/Chicken_Briyani.jpg';
+// import Mutton_Briyani from '../assets/Non_Veg/Mutton_Briyani.jpg';
+// import Butter_Chicken from '../assets/Non_Veg/Butter_Chicken.jpg';
+// import Egg_Curry from '../assets/Non_Veg/Egg_Curry.jpg';
+// import Fish_Curry from '../assets/Non_Veg/Fish_Curry.jpg';
+// import Pepper_Mutton from '../assets/Non_Veg/Pepper_Mutton.jpg';
+// import Prawn_Curry from '../assets/Non_Veg/Prawn_Curry.jpg';
+// import Sweet_Pepper_Chicken from '../assets/Non_Veg/Sweet_Pepper_Chicken.jpg';
+
 
 // const nonVegData = [
-//   { src: ButterChicken, title: "Butter Chicken", price: 250, rating: 4.9 },
-//   { src: ChickenBiryani, title: "Chicken Biryani", price: 300, rating: 4.8 },
-//   { src: MuttonRoganJosh, title: "Mutton Rogan Josh", price: 350, rating: 4.7 },
-//   { src: FishCurry, title: "Fish Curry", price: 280, rating: 4.6 },
-//   { src: TandooriChicken, title: "Tandoori Chicken", price: 320, rating: 4.5 },
+//   { src: Grill_Chicken, title: "Grill_Chicken", price: 250, rating: 4.9 },
+//   { src: Chicken_Briyani, title: "Chicken_Briyani", price: 300, rating: 4.8 },
+//   { src: Mutton_Briyani, title: "Mutton_Briyani", price: 350, rating: 4.7 },
+//   { src: Butter_Chicken, title: "Butter_Chicken", price: 280, rating: 4.6 },
+//   { src: Egg_Curry, title: "Egg_Curry", price: 320, rating: 4.5 },
+//   { src: Fish_Curry, title: "Fish_Curry", price: 320, rating: 4.5 },
+//   { src: Pepper_Mutton, title: "Pepper_Mutton", price: 320, rating: 4.5 },
+//   { src: Prawn_Curry, title: "Prawn_Curry", price: 320, rating: 4.5 },
+//   { src: Sweet_Pepper_Chicken, title: "Sweet_Pepper_Chicken", price: 320, rating: 4.5 },
+
 // ];
 
 // export default function NonVegSection() {

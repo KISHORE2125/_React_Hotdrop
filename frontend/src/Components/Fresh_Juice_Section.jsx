@@ -3,18 +3,25 @@
 // import { FaChevronRight, FaChevronLeft, FaStar, FaShoppingCart, FaPlus, FaMinus } from "react-icons/fa";
 
 // // Import fresh juice images
-// import MangoJuice from "../assets/FreshJuices/MangoJuice.jpg";
-// import OrangeJuice from "../assets/FreshJuices/OrangeJuice.jpg";
-// import AppleJuice from "../assets/FreshJuices/AppleJuice.jpg";
-// import CarrotJuice from "../assets/FreshJuices/CarrotJuice.jpg";
-// import PineappleJuice from "../assets/FreshJuices/PineappleJuice.jpg";
+//  import Apple_Juice from "../assets/Fresh_Juice/Apple_Juice.jpg";
+//  import Lemon_Juice from "../assets/Fresh_Juice/Lemon_Juice.jpg";
+//  import Orange_Juice from "../assets/Fresh_Juice/Orange_Juice.jpg";
+//  import Pine_Apple_Juice from "../assets/Fresh_Juice/Pine_Apple_Juice.jpg";
+//  import Pomegranets_Juice from "../assets/Fresh_Juice/Pomegranets_Juice.jpg";
+//  import Watermelon_Juice from "../assets/Fresh_Juice/Watermelon_Juice.jpg";
+
+
+
+
 
 // const freshJuicesData = [
-//   { src: MangoJuice, title: "Mango Juice", price: 120, rating: 4.8 },
-//   { src: OrangeJuice, title: "Orange Juice", price: 100, rating: 4.7 },
-//   { src: AppleJuice, title: "Apple Juice", price: 90, rating: 4.6 },
-//   { src: CarrotJuice, title: "Carrot Juice", price: 80, rating: 4.5 },
-//   { src: PineappleJuice, title: "Pineapple Juice", price: 110, rating: 4.9 },
+//   { src: Apple_Juice, title: "Apple_Juice", price: 120, rating: 4.8 },
+//   { src: Lemon_Juice, title: "Lemon_Juice", price: 100, rating: 4.7 },
+//   { src: Orange_Juice, title: "Orange_Juice", price: 90, rating: 4.6 },
+//   { src: Pine_Apple_Juice, title: "Pine_Apple_Juice", price: 80, rating: 4.5 },
+//   { src: Pomegranets_Juice, title: "Pomegranets_Juice", price: 110, rating: 4.9 },
+//   { src: Watermelon_Juice, title: "Watermelon_Juice", price: 110, rating: 4.9 },
+
 // ];
 
 // export default function FreshJuiceSection() {

@@ -2,19 +2,27 @@
 // import { useNavigate } from "react-router-dom";
 // import { FaChevronRight, FaChevronLeft, FaStar, FaShoppingCart, FaPlus, FaMinus } from "react-icons/fa";
 
-// // Import milkshake images
-// import ChocolateMilkshake from "../assets/Milkshakes/ChocolateMilkshake.jpg";
-// import StrawberryMilkshake from "../assets/Milkshakes/StrawberryMilkshake.jpg";
-// import VanillaMilkshake from "../assets/Milkshakes/VanillaMilkshake.jpg";
-// import OreoMilkshake from "../assets/Milkshakes/OreoMilkshake.jpg";
-// import MangoMilkshake from "../assets/Milkshakes/MangoMilkshake.jpg";
+// Import milkshake images
+// import Banana_Milk_Shake from '../assets/Milk_Shake/Banana_Milk_Shake.jpg'
+// import Chocolate_Milk_Shake from '../assets/Milk_Shake/Chocolate_Milk_Shake.jpg'
+// import Caramel_Milk_Shake from '../assets/Milk_Shake/Caramel_Milk_Shake.jpg'
+// import Mint_Milk_Shake from '../assets/Milk_Shake/Mint_Milk_Milk_Shake.jpg'
+// import Oreo_Milk_Shake from '../assets/Milk_Shake/Oreo_Milk_Shake.jpg'
+// import Peanut_Milk_Shake from '../assets/Milk_Shake/Peanut_Milk_Shake.jpg'
+// import Strawberry_Milk_Shake from '../assets/Milk_Shake/Strawberry_Milk_Shake.jpg'
+// import Vannila_Milk_Shake from '../assets/Milk_Shake/Vannila_Milk_Shake.jpg'
+
 
 // const milkshakesData = [
-//   { src: ChocolateMilkshake, title: "Chocolate Milkshake", price: 180, rating: 4.8 },
-//   { src: StrawberryMilkshake, title: "Strawberry Milkshake", price: 160, rating: 4.7 },
-//   { src: VanillaMilkshake, title: "Vanilla Milkshake", price: 150, rating: 4.6 },
-//   { src: OreoMilkshake, title: "Oreo Milkshake", price: 200, rating: 4.9 },
-//   { src: MangoMilkshake, title: "Mango Milkshake", price: 170, rating: 4.5 },
+//   { src: Banana_Milk_Shake, title: "Banana_Milk_Shake", price: 180, rating: 4.8 },
+//   { src: Chocolate_Milk_Shake, title: "Chocolate_Milk_Shake", price: 160, rating: 4.7 },
+//   { src: Caramel_Milk_Shake, title: "Caramel_Milk_Shake", price: 150, rating: 4.6 },
+//   { src: Mint_Milk_Shake, title: "Mint_Milk_Shake", price: 200, rating: 4.9 },
+//   { src: Oreo_Milk_Shake, title: "Oreo_Milk_Shake", price: 170, rating: 4.5 },
+//   { src: Peanut_Milk_Shake, title: "Peanut_Milk_Shake", price: 170, rating: 4.5 },
+//   { src: Strawberry_Milk_Shake, title: "Strawberry_Milk_Shake", price: 170, rating: 4.5 },
+//   { src: Vannila_Milk_Shake, title: "Vannila_Milk_Shake", price: 170, rating: 4.5 },
+
 // ];
 
 // export default function MilkshakeSection() {
