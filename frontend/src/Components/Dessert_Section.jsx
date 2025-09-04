@@ -18,7 +18,6 @@ import Rasperry_Dessert from '../assets/Dessert/Rasperry_Dessert.jpg'
 
 
 
-
 const dessertsData = [
   { src: Brownie_Dessert, title: "Brownie_Dessert", price: 250, rating: 4.9 },
   { src: Cherry_Dessert, title: "Cherry_Dessert", price: 150, rating: 4.7 },
